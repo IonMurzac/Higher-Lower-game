@@ -1,1 +1,2 @@
 # Higher-Lower-game
+It's a simple number guessing game. The game randomly generates a number between 1 and 100, and the player must guess the number. The game will give the player feedback whether the number is higher or lower until the player guesses the number correctly or the number of attempts reaches 10. The game will prompt the user if they want to play again and the user can choose to play again or exit the game.
